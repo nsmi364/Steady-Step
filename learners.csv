@@ -1,0 +1,401 @@
+learner_id,course_code,course_offering_period,gender_group,learner_region,prior_education_level,area_deprivation_band,age_group,previous_attempt_count,credit_load,accessibility_support_flag,final_course_outcome
+L0001,BUS101,2026S2,Female,North,Diploma,High,25-34,3,45,No,Pass
+L0002,BUS101,2026S2,Male,Central,Secondary,Medium,Under 25,0,60,No,Pass
+L0003,BUS101,2026S2,Female,Central,Postgraduate,High,Under 25,0,60,No,High Pass
+L0004,BUS101,2026S2,Female,Central,Secondary,Medium,45+,0,120,No,Fail
+L0005,BUSAN101,2026S2,Male,Central,Secondary,Low,Under 25,0,90,No,Withdrawn
+L0006,BUSAN101,2026S2,Female,North,Secondary,High,Under 25,0,30,No,Withdrawn
+L0007,INF200,2026S2,Female,Central,Secondary,High,35-44,0,60,No,Pass
+L0008,BUS101,2026S2,Male,South,Diploma,Medium,Under 25,0,45,Yes,Pass
+L0009,BUS101,2026S2,Female,Central,Certificate,Medium,Under 25,1,60,No,High Pass
+L0010,BUS101,2026S2,Male,North,Postgraduate,Medium,45+,1,90,No,Pass
+L0011,INF200,2026S2,Male,Central,Diploma,Medium,Under 25,0,30,No,Pass
+L0012,INF200,2026S2,Female,Central,Diploma,Low,Under 25,0,90,No,Pass
+L0013,BUS101,2026S2,Another/Unknown,North,Secondary,Medium,35-44,1,60,No,Fail
+L0014,BUS101,2026S2,Female,North,Bachelor,Low,Under 25,0,60,No,Pass
+L0015,INF200,2026S2,Female,Central,Secondary,Medium,25-34,0,90,Yes,Withdrawn
+L0016,BUSAN101,2026S2,Female,Online/Other,Secondary,Medium,Under 25,0,60,No,Pass
+L0017,BUSAN101,2026S2,Female,South,Secondary,Medium,Under 25,0,60,No,Pass
+L0018,INF200,2026S2,Male,North,Diploma,Low,25-34,0,45,No,Pass
+L0019,INF200,2026S2,Male,North,Diploma,Low,35-44,0,60,No,Pass
+L0020,BUSAN101,2026S2,Male,Central,Secondary,High,Under 25,0,60,No,Pass
+L0021,INF200,2026S2,Female,Central,Secondary,Unknown,Under 25,0,60,No,Pass
+L0022,INF200,2026S2,Female,South,Bachelor,Medium,Under 25,0,60,No,Pass
+L0023,BUS101,2026S2,Male,North,Certificate,Low,Under 25,1,60,No,Pass
+L0024,INF200,2026S2,Male,North,Bachelor,Medium,Under 25,0,30,Unknown,Withdrawn
+L0025,BUS101,2026S2,Female,Central,Postgraduate,Low,Under 25,1,60,No,Pass
+L0026,BUS101,2026S2,Male,North,Certificate,Unknown,25-34,0,60,Yes,Pass
+L0027,BUSAN101,2026S2,Male,North,Certificate,Medium,Under 25,0,45,No,Withdrawn
+L0028,INF200,2026S2,Female,Online/Other,Postgraduate,Medium,Under 25,0,60,No,Fail
+L0029,BUSAN101,2026S2,Female,South,Secondary,High,Under 25,0,90,No,Fail
+L0030,INF200,2026S2,Female,North,Postgraduate,Unknown,35-44,1,90,No,Pass
+L0031,BUS101,2026S2,Female,North,Bachelor,Medium,Under 25,0,60,No,Pass
+L0032,INF200,2026S2,Male,South,Diploma,Low,Under 25,0,90,No,High Pass
+L0033,BUS101,2026S2,Female,North,Secondary,Low,35-44,0,60,No,Pass
+L0034,BUSAN101,2026S2,Male,North,Secondary,Unknown,25-34,0,120,No,High Pass
+L0035,BUSAN101,2026S2,Female,Central,Secondary,Medium,Under 25,0,60,No,Pass
+L0036,BUS101,2026S2,Male,North,Diploma,Low,Under 25,0,60,No,Pass
+L0037,INF200,2026S2,Female,North,Diploma,High,25-34,0,90,No,Pass
+L0038,BUSAN101,2026S2,Female,Central,Secondary,Low,Under 25,0,30,No,Fail
+L0039,INF200,2026S2,Female,North,Diploma,Medium,Under 25,1,60,No,Pass
+L0040,INF200,2026S2,Female,Online/Other,Bachelor,Medium,35-44,0,60,Unknown,Pass
+L0041,INF200,2026S2,Another/Unknown,Central,Postgraduate,Medium,35-44,0,60,No,Fail
+L0042,INF200,2026S2,Female,Central,Secondary,High,Under 25,0,90,Unknown,Pass
+L0043,INF200,2026S2,Female,Central,Secondary,Unknown,Under 25,0,60,Unknown,Pass
+L0044,BUS101,2026S2,Female,Central,Secondary,High,Under 25,0,30,No,Fail
+L0045,BUS101,2026S2,Male,North,Secondary,High,35-44,0,60,No,Withdrawn
+L0046,BUS101,2026S2,Female,South,Bachelor,Medium,Under 25,1,30,Yes,Fail
+L0047,BUS101,2026S2,Female,North,Bachelor,Medium,25-34,0,90,No,High Pass
+L0048,INF200,2026S2,Male,North,Secondary,Medium,Under 25,0,60,Yes,High Pass
+L0049,INF200,2026S2,Male,Online/Other,Secondary,Low,Under 25,0,90,No,Withdrawn
+L0050,INF200,2026S2,Male,Central,Bachelor,High,Under 25,0,60,No,High Pass
+L0051,BUS101,2026S2,Male,Central,Secondary,Medium,Under 25,1,60,No,Pass
+L0052,INF200,2026S2,Male,South,Diploma,Low,35-44,0,30,Yes,Pass
+L0053,BUS101,2026S2,Another/Unknown,Online/Other,Certificate,Medium,25-34,3,60,Unknown,Pass
+L0054,BUSAN101,2026S2,Male,North,Secondary,Low,Under 25,0,60,No,Pass
+L0055,BUSAN101,2026S2,Female,Online/Other,Bachelor,Medium,Under 25,0,30,Unknown,High Pass
+L0056,INF200,2026S2,Female,South,Postgraduate,Low,25-34,3,60,No,Fail
+L0057,BUS101,2026S2,Male,Central,Secondary,Low,Under 25,0,45,Yes,Pass
+L0058,BUSAN101,2026S2,Male,North,Certificate,Medium,Under 25,0,60,No,Fail
+L0059,INF200,2026S2,Male,Online/Other,Secondary,Medium,45+,1,90,No,Pass
+L0060,BUSAN101,2026S2,Female,North,Secondary,High,Under 25,0,60,No,Fail
+L0061,BUS101,2026S2,Female,Online/Other,Secondary,High,Under 25,0,45,No,Fail
+L0062,INF200,2026S2,Female,Online/Other,Bachelor,Medium,Under 25,0,90,No,Withdrawn
+L0063,BUS101,2026S2,Male,Central,Secondary,High,25-34,0,30,No,Pass
+L0064,INF200,2026S2,Male,South,Diploma,Unknown,Under 25,1,45,Yes,Pass
+L0065,BUSAN101,2026S2,Female,South,Bachelor,Medium,Under 25,0,120,No,Pass
+L0066,INF200,2026S2,Male,Central,Diploma,Low,Under 25,0,60,No,High Pass
+L0067,INF200,2026S2,Female,South,Certificate,Unknown,35-44,0,45,No,Pass
+L0068,BUSAN101,2026S2,Female,Central,Secondary,Medium,Under 25,0,60,No,Withdrawn
+L0069,BUS101,2026S2,Male,Central,Diploma,Medium,25-34,2,90,No,Pass
+L0070,BUS101,2026S2,Female,Central,Certificate,Medium,Under 25,0,45,Yes,Pass
+L0071,BUS101,2026S2,Female,North,Diploma,Low,Under 25,0,30,No,Pass
+L0072,BUSAN101,2026S2,Another/Unknown,North,Secondary,Low,35-44,1,30,No,Fail
+L0073,INF200,2026S2,Female,Online/Other,Secondary,Low,25-34,0,60,No,Pass
+L0074,INF200,2026S2,Female,Central,Postgraduate,High,Under 25,0,90,No,Fail
+L0075,BUS101,2026S2,Male,North,Diploma,Medium,Under 25,0,60,No,Fail
+L0076,INF200,2026S2,Female,South,Bachelor,Medium,25-34,1,60,Yes,High Pass
+L0077,BUS101,2026S2,Male,South,Bachelor,Medium,Under 25,0,60,Yes,Pass
+L0078,BUS101,2026S2,Male,North,Diploma,Medium,Under 25,0,60,No,Fail
+L0079,BUS101,2026S2,Male,North,Certificate,Medium,25-34,0,60,No,Fail
+L0080,BUS101,2026S2,Female,North,Secondary,Medium,35-44,0,60,No,Withdrawn
+L0081,INF200,2026S2,Female,North,Diploma,Low,Under 25,0,60,No,High Pass
+L0082,BUS101,2026S2,Male,Central,Bachelor,High,Under 25,0,60,No,Fail
+L0083,BUS101,2026S2,Male,North,Secondary,Medium,Under 25,0,60,No,Pass
+L0084,BUSAN101,2026S2,Female,Online/Other,Secondary,Medium,Under 25,0,60,No,Fail
+L0085,INF200,2026S2,Male,Central,Secondary,Low,Under 25,0,60,No,High Pass
+L0086,BUSAN101,2026S2,Female,Central,Postgraduate,Medium,Under 25,0,60,No,High Pass
+L0087,INF200,2026S2,Male,Online/Other,Secondary,Low,Under 25,1,30,No,Withdrawn
+L0088,BUS101,2026S2,Male,South,Certificate,Low,Under 25,0,60,No,Pass
+L0089,INF200,2026S2,Female,Central,Secondary,High,Under 25,0,90,No,Pass
+L0090,INF200,2026S2,Male,Central,Secondary,Low,Under 25,0,45,No,Pass
+L0091,BUS101,2026S2,Female,Central,Postgraduate,Medium,35-44,0,60,Yes,Pass
+L0092,BUS101,2026S2,Female,South,Secondary,Medium,Under 25,0,60,Unknown,Pass
+L0093,INF200,2026S2,Male,Online/Other,Secondary,High,Under 25,0,60,No,Pass
+L0094,BUSAN101,2026S2,Another/Unknown,Central,Secondary,Medium,Under 25,0,60,Yes,Fail
+L0095,INF200,2026S2,Male,Central,Certificate,Low,Under 25,0,90,No,Pass
+L0096,INF200,2026S2,Female,Online/Other,Postgraduate,Low,Under 25,0,60,No,High Pass
+L0097,BUS101,2026S2,Male,Central,Secondary,Low,Under 25,0,60,No,High Pass
+L0098,INF200,2026S2,Female,North,Bachelor,Medium,45+,0,45,No,Pass
+L0099,BUSAN101,2026S2,Female,North,Diploma,High,Under 25,1,60,No,High Pass
+L0100,BUSAN101,2026S2,Male,Online/Other,Secondary,Low,Under 25,1,60,No,Fail
+L0101,BUSAN101,2026S2,Female,Central,Secondary,Low,Under 25,1,60,No,Pass
+L0102,INF200,2026S2,Male,North,Secondary,Medium,Under 25,0,60,Yes,Pass
+L0103,BUS101,2026S2,Another/Unknown,Central,Secondary,Low,35-44,0,45,No,Pass
+L0104,BUSAN101,2026S2,Male,Central,Secondary,Low,Under 25,0,60,Yes,Pass
+L0105,BUSAN101,2026S2,Male,Online/Other,Certificate,Medium,35-44,0,45,No,High Pass
+L0106,BUS101,2026S2,Female,North,Secondary,Medium,Under 25,0,45,No,Pass
+L0107,BUSAN101,2026S2,Male,Central,Bachelor,Medium,35-44,0,60,Yes,Withdrawn
+L0108,INF200,2026S2,Female,South,Certificate,Unknown,Under 25,1,60,No,Withdrawn
+L0109,BUS101,2026S2,Male,Central,Diploma,Unknown,35-44,0,90,Yes,Pass
+L0110,BUS101,2026S2,Female,North,Bachelor,Medium,Under 25,0,45,No,Fail
+L0111,BUS101,2026S2,Female,Central,Certificate,Low,Under 25,0,60,No,Pass
+L0112,INF200,2026S2,Another/Unknown,Online/Other,Bachelor,Low,Under 25,4,60,No,Pass
+L0113,BUS101,2026S2,Female,South,Bachelor,Unknown,Under 25,0,60,No,Fail
+L0114,BUSAN101,2026S2,Male,North,Secondary,Unknown,Under 25,0,60,No,Pass
+L0115,INF200,2026S2,Female,Central,Secondary,Low,Under 25,0,45,No,Fail
+L0116,BUSAN101,2026S2,Male,Central,Bachelor,High,Under 25,1,30,No,Fail
+L0117,BUSAN101,2026S2,Male,South,Postgraduate,High,25-34,0,60,No,Withdrawn
+L0118,INF200,2026S2,Male,South,Secondary,Medium,Under 25,1,60,No,Pass
+L0119,INF200,2026S2,Male,Central,Certificate,High,Under 25,0,60,Yes,Pass
+L0120,BUSAN101,2026S2,Female,North,Bachelor,Low,Under 25,0,60,No,High Pass
+L0121,INF200,2026S2,Male,North,Secondary,High,Under 25,0,30,Yes,Fail
+L0122,INF200,2026S2,Male,South,Bachelor,Low,35-44,0,60,No,Pass
+L0123,BUSAN101,2026S2,Female,North,Secondary,Low,Under 25,0,60,No,Pass
+L0124,INF200,2026S2,Another/Unknown,South,Postgraduate,Low,Under 25,0,30,No,Pass
+L0125,BUSAN101,2026S2,Male,South,Secondary,High,45+,2,90,No,High Pass
+L0126,INF200,2026S2,Female,Central,Secondary,Medium,Under 25,0,60,No,Pass
+L0127,BUS101,2026S2,Female,North,Certificate,Low,Under 25,0,90,No,Pass
+L0128,BUS101,2026S2,Female,Online/Other,Secondary,Low,25-34,0,60,No,Pass
+L0129,BUS101,2026S2,Female,North,Secondary,Low,Under 25,0,45,No,Pass
+L0130,BUS101,2026S2,Female,North,Bachelor,Low,Under 25,0,60,No,High Pass
+L0131,INF200,2026S2,Female,South,Secondary,Low,Under 25,0,30,No,High Pass
+L0132,INF200,2026S2,Female,North,Certificate,Unknown,25-34,0,60,No,Pass
+L0133,BUS101,2026S2,Male,Central,Secondary,Medium,45+,0,30,Unknown,Pass
+L0134,BUS101,2026S2,Male,Central,Secondary,Low,25-34,0,45,No,Withdrawn
+L0135,BUS101,2026S2,Female,South,Secondary,High,Under 25,0,30,No,Pass
+L0136,INF200,2026S2,Female,South,Secondary,Medium,45+,0,60,No,Withdrawn
+L0137,INF200,2026S2,Female,North,Bachelor,Medium,35-44,2,60,Yes,Fail
+L0138,BUSAN101,2026S2,Male,Central,Secondary,High,25-34,1,60,No,High Pass
+L0139,BUSAN101,2026S2,Female,North,Postgraduate,Medium,35-44,0,120,No,Pass
+L0140,BUS101,2026S2,Female,South,Bachelor,High,45+,0,60,Yes,Pass
+L0141,INF200,2026S2,Female,Online/Other,Diploma,Low,Under 25,0,60,No,Pass
+L0142,BUSAN101,2026S2,Female,North,Bachelor,High,Under 25,2,90,No,Pass
+L0143,BUS101,2026S2,Male,Online/Other,Postgraduate,High,Under 25,0,30,Yes,Pass
+L0144,BUS101,2026S2,Male,North,Secondary,High,Under 25,0,120,No,Withdrawn
+L0145,BUSAN101,2026S2,Male,South,Bachelor,Low,35-44,0,60,No,Pass
+L0146,INF200,2026S2,Female,Central,Secondary,Low,Under 25,0,60,No,High Pass
+L0147,BUSAN101,2026S2,Male,South,Secondary,Low,Under 25,0,120,No,Pass
+L0148,BUSAN101,2026S2,Female,South,Postgraduate,Medium,Under 25,0,60,No,High Pass
+L0149,INF200,2026S2,Male,Central,Secondary,High,25-34,1,60,No,Withdrawn
+L0150,BUSAN101,2026S2,Female,Central,Bachelor,High,Under 25,1,60,No,Withdrawn
+L0151,BUSAN101,2026S2,Male,Central,Secondary,Medium,35-44,0,90,No,Pass
+L0152,INF200,2026S2,Female,North,Secondary,Medium,Under 25,0,60,No,Pass
+L0153,BUS101,2026S2,Male,South,Bachelor,Low,Under 25,0,30,No,Pass
+L0154,BUSAN101,2026S2,Female,North,Diploma,High,25-34,0,90,Yes,Pass
+L0155,BUS101,2026S2,Male,Central,Postgraduate,Low,Under 25,0,60,No,Pass
+L0156,INF200,2026S2,Female,Central,Bachelor,High,Under 25,0,60,Yes,Fail
+L0157,INF200,2026S2,Female,North,Diploma,Low,Under 25,0,60,No,Fail
+L0158,BUS101,2026S2,Female,Online/Other,Secondary,Low,Under 25,0,60,No,High Pass
+L0159,INF200,2026S2,Male,North,Diploma,Medium,Under 25,0,60,No,Pass
+L0160,BUSAN101,2026S2,Female,North,Postgraduate,Medium,25-34,0,45,Yes,Fail
+L0161,INF200,2026S2,Male,South,Diploma,High,Under 25,0,90,No,Withdrawn
+L0162,INF200,2026S2,Female,South,Postgraduate,Medium,Under 25,1,60,No,Fail
+L0163,BUSAN101,2026S2,Male,Central,Secondary,Medium,Under 25,0,30,Yes,Fail
+L0164,BUS101,2026S2,Male,Online/Other,Secondary,High,Under 25,2,60,No,Pass
+L0165,BUS101,2026S2,Male,Central,Certificate,Medium,25-34,0,60,No,Pass
+L0166,BUSAN101,2026S2,Male,Central,Secondary,Medium,Under 25,1,90,No,Withdrawn
+L0167,INF200,2026S2,Male,Central,Diploma,Low,25-34,0,60,Unknown,Fail
+L0168,BUS101,2026S2,Male,North,Secondary,Low,45+,2,60,Unknown,Pass
+L0169,BUS101,2026S2,Female,South,Diploma,High,Under 25,0,60,No,Pass
+L0170,BUS101,2026S2,Another/Unknown,Online/Other,Diploma,Medium,Under 25,0,30,No,Pass
+L0171,BUSAN101,2026S2,Male,Central,Certificate,High,Under 25,0,60,Yes,High Pass
+L0172,BUS101,2026S2,Female,Central,Certificate,Medium,Under 25,0,90,No,Fail
+L0173,BUS101,2026S2,Female,North,Diploma,High,25-34,2,60,No,Fail
+L0174,BUSAN101,2026S2,Female,Central,Secondary,Unknown,Under 25,1,30,No,Withdrawn
+L0175,BUS101,2026S2,Female,Online/Other,Secondary,High,Under 25,0,60,No,Pass
+L0176,INF200,2026S2,Female,Central,Bachelor,High,25-34,0,60,No,Pass
+L0177,INF200,2026S2,Female,Central,Secondary,Unknown,25-34,0,45,No,Pass
+L0178,INF200,2026S2,Female,Central,Certificate,Medium,Under 25,0,30,No,Pass
+L0179,INF200,2026S2,Female,North,Postgraduate,Medium,Under 25,0,90,No,Fail
+L0180,INF200,2026S2,Female,Online/Other,Certificate,Medium,25-34,1,60,No,Withdrawn
+L0181,INF200,2026S2,Female,Central,Postgraduate,Medium,Under 25,0,60,No,Pass
+L0182,BUSAN101,2026S2,Male,Online/Other,Diploma,Medium,Under 25,0,120,No,Withdrawn
+L0183,BUSAN101,2026S2,Female,Central,Diploma,Medium,Under 25,2,60,Unknown,Pass
+L0184,BUSAN101,2026S2,Male,Central,Bachelor,Unknown,35-44,0,45,Yes,Fail
+L0185,INF200,2026S2,Female,North,Diploma,Medium,Under 25,0,45,No,Pass
+L0186,BUS101,2026S2,Female,Central,Certificate,Medium,Under 25,0,60,No,Pass
+L0187,BUSAN101,2026S2,Female,Central,Diploma,Low,35-44,0,60,No,Withdrawn
+L0188,BUS101,2026S2,Female,Central,Secondary,High,35-44,0,120,No,High Pass
+L0189,INF200,2026S2,Male,Central,Secondary,Low,Under 25,0,60,No,Pass
+L0190,INF200,2026S2,Male,North,Certificate,High,Under 25,0,90,No,High Pass
+L0191,BUSAN101,2026S2,Male,Central,Diploma,High,Under 25,0,45,Unknown,Pass
+L0192,BUS101,2026S2,Male,South,Certificate,Medium,45+,0,60,Yes,Pass
+L0193,INF200,2026S2,Female,South,Bachelor,Medium,45+,0,60,Yes,Pass
+L0194,BUSAN101,2026S2,Male,Central,Diploma,Low,Under 25,0,60,No,Pass
+L0195,BUS101,2026S2,Male,Central,Secondary,Low,25-34,0,30,Yes,Pass
+L0196,BUS101,2026S2,Female,North,Diploma,Medium,Under 25,0,60,No,Pass
+L0197,INF200,2026S2,Male,South,Postgraduate,Medium,Under 25,0,60,No,High Pass
+L0198,BUS101,2026S2,Another/Unknown,North,Postgraduate,Medium,35-44,0,45,No,High Pass
+L0199,INF200,2026S2,Female,South,Secondary,Low,25-34,0,30,No,Pass
+L0200,BUSAN101,2026S2,Male,Online/Other,Diploma,Low,Under 25,0,60,No,Fail
+L0201,BUS101,2026S2,Female,Central,Secondary,Unknown,45+,0,60,No,High Pass
+L0202,BUS101,2026S2,Female,Central,Bachelor,Medium,Under 25,0,30,No,Fail
+L0203,BUS101,2026S2,Male,Central,Secondary,Medium,Under 25,0,30,No,Pass
+L0204,INF200,2026S2,Female,South,Secondary,Low,Under 25,0,60,No,Pass
+L0205,BUS101,2026S2,Female,North,Secondary,Low,Under 25,0,60,No,Fail
+L0206,INF200,2026S2,Male,Online/Other,Secondary,Medium,Under 25,1,60,No,Withdrawn
+L0207,INF200,2026S2,Male,North,Secondary,Low,Under 25,0,120,No,Pass
+L0208,BUSAN101,2026S2,Female,Central,Secondary,High,Under 25,1,60,No,Withdrawn
+L0209,BUSAN101,2026S2,Male,Central,Certificate,Low,Under 25,0,60,No,High Pass
+L0210,BUS101,2026S2,Male,Online/Other,Bachelor,Medium,Under 25,0,60,No,Pass
+L0211,INF200,2026S2,Male,North,Secondary,Low,Under 25,0,90,No,Withdrawn
+L0212,INF200,2026S2,Female,North,Bachelor,Low,Under 25,0,60,No,Pass
+L0213,INF200,2026S2,Female,Central,Secondary,Medium,25-34,2,30,No,Pass
+L0214,BUSAN101,2026S2,Female,Online/Other,Postgraduate,Medium,Under 25,0,45,No,Pass
+L0215,BUS101,2026S2,Male,Central,Bachelor,Low,Under 25,0,60,No,Pass
+L0216,BUS101,2026S2,Female,Central,Secondary,Medium,Under 25,0,45,No,High Pass
+L0217,INF200,2026S2,Female,North,Secondary,High,Under 25,0,60,No,High Pass
+L0218,BUS101,2026S2,Female,Central,Secondary,Medium,Under 25,0,60,Unknown,Pass
+L0219,BUS101,2026S2,Male,North,Secondary,Medium,25-34,0,60,No,Pass
+L0220,INF200,2026S2,Female,North,Bachelor,Medium,35-44,1,90,No,Pass
+L0221,INF200,2026S2,Male,North,Diploma,Low,Under 25,0,30,No,High Pass
+L0222,BUSAN101,2026S2,Male,South,Secondary,Low,Under 25,0,120,No,Pass
+L0223,BUSAN101,2026S2,Female,South,Secondary,Medium,25-34,0,60,No,Pass
+L0224,INF200,2026S2,Female,Online/Other,Diploma,Low,Under 25,0,60,Yes,Pass
+L0225,INF200,2026S2,Female,Central,Secondary,Medium,Under 25,0,30,No,Pass
+L0226,BUSAN101,2026S2,Male,Central,Secondary,Medium,35-44,0,90,Yes,Fail
+L0227,BUSAN101,2026S2,Male,Central,Secondary,Low,Under 25,0,45,No,Fail
+L0228,BUSAN101,2026S2,Female,North,Secondary,Medium,25-34,0,90,Yes,High Pass
+L0229,BUS101,2026S2,Male,Online/Other,Secondary,Medium,Under 25,0,60,No,Fail
+L0230,INF200,2026S2,Male,North,Secondary,Low,35-44,2,45,No,Pass
+L0231,INF200,2026S2,Male,Central,Secondary,High,25-34,0,60,No,Pass
+L0232,BUS101,2026S2,Female,North,Secondary,Low,Under 25,2,45,No,Fail
+L0233,INF200,2026S2,Female,Central,Postgraduate,Low,35-44,2,60,No,Pass
+L0234,BUSAN101,2026S2,Male,Central,Secondary,High,Under 25,0,90,No,Fail
+L0235,BUS101,2026S2,Female,Central,Bachelor,High,Under 25,0,60,Yes,Fail
+L0236,INF200,2026S2,Male,South,Secondary,Medium,Under 25,0,60,No,High Pass
+L0237,INF200,2026S2,Male,Online/Other,Postgraduate,Low,45+,0,60,No,Pass
+L0238,BUS101,2026S2,Female,Online/Other,Secondary,High,Under 25,0,60,No,Pass
+L0239,BUS101,2026S2,Male,Central,Postgraduate,Low,25-34,0,60,No,High Pass
+L0240,INF200,2026S2,Female,North,Secondary,Low,Under 25,0,30,No,Fail
+L0241,INF200,2026S2,Female,North,Bachelor,Low,25-34,0,60,Yes,High Pass
+L0242,BUSAN101,2026S2,Female,Central,Secondary,High,Under 25,0,60,No,High Pass
+L0243,BUSAN101,2026S2,Male,Central,Secondary,Unknown,25-34,0,60,No,Pass
+L0244,INF200,2026S2,Male,Central,Postgraduate,Low,25-34,1,60,Unknown,Pass
+L0245,BUS101,2026S2,Male,South,Bachelor,Medium,Under 25,0,30,No,Pass
+L0246,BUSAN101,2026S2,Male,Central,Postgraduate,Unknown,25-34,0,60,No,Fail
+L0247,BUSAN101,2026S2,Female,North,Secondary,Medium,Under 25,0,60,Yes,Pass
+L0248,BUSAN101,2026S2,Male,South,Secondary,Medium,35-44,0,60,No,High Pass
+L0249,BUSAN101,2026S2,Female,Online/Other,Secondary,Low,Under 25,1,30,No,Pass
+L0250,BUSAN101,2026S2,Male,Central,Secondary,Unknown,Under 25,0,60,No,Pass
+L0251,BUS101,2026S2,Female,North,Certificate,Medium,Under 25,0,45,Unknown,Pass
+L0252,BUS101,2026S2,Female,Central,Bachelor,Unknown,Under 25,0,60,Yes,Fail
+L0253,BUS101,2026S2,Female,Online/Other,Postgraduate,Low,Under 25,0,60,No,Pass
+L0254,BUS101,2026S2,Female,North,Bachelor,Unknown,25-34,1,60,No,Withdrawn
+L0255,BUS101,2026S2,Male,South,Secondary,Medium,Under 25,0,60,Unknown,Pass
+L0256,BUS101,2026S2,Male,Central,Secondary,Unknown,25-34,2,30,Yes,Pass
+L0257,BUSAN101,2026S2,Female,North,Postgraduate,Low,Under 25,0,60,No,Pass
+L0258,INF200,2026S2,Female,Online/Other,Certificate,Low,Under 25,0,60,No,Pass
+L0259,BUS101,2026S2,Female,Central,Secondary,Unknown,35-44,0,60,No,Pass
+L0260,INF200,2026S2,Female,North,Postgraduate,Low,Under 25,0,45,Unknown,High Pass
+L0261,BUS101,2026S2,Male,North,Diploma,Low,25-34,0,60,No,Pass
+L0262,BUS101,2026S2,Male,Central,Bachelor,Low,25-34,0,45,No,High Pass
+L0263,BUS101,2026S2,Female,Central,Secondary,Low,Under 25,0,60,No,High Pass
+L0264,BUS101,2026S2,Male,North,Diploma,Medium,Under 25,3,45,No,Withdrawn
+L0265,INF200,2026S2,Male,Online/Other,Diploma,Medium,25-34,0,60,Yes,Pass
+L0266,BUSAN101,2026S2,Male,South,Diploma,High,35-44,1,90,No,Pass
+L0267,INF200,2026S2,Male,Central,Bachelor,Unknown,Under 25,1,120,No,Fail
+L0268,BUSAN101,2026S2,Female,Central,Secondary,High,Under 25,2,30,No,Withdrawn
+L0269,BUSAN101,2026S2,Female,Online/Other,Secondary,Low,Under 25,2,30,No,Fail
+L0270,BUSAN101,2026S2,Female,North,Secondary,Medium,Under 25,1,60,No,Fail
+L0271,INF200,2026S2,Male,Central,Secondary,High,25-34,0,120,No,High Pass
+L0272,BUSAN101,2026S2,Male,North,Secondary,Low,Under 25,0,45,No,Withdrawn
+L0273,BUSAN101,2026S2,Male,South,Secondary,Low,Under 25,0,60,No,Withdrawn
+L0274,BUSAN101,2026S2,Male,South,Postgraduate,Medium,35-44,0,45,Yes,Fail
+L0275,BUS101,2026S2,Male,South,Postgraduate,Low,35-44,1,120,No,Pass
+L0276,BUS101,2026S2,Female,South,Secondary,Low,25-34,0,60,No,Withdrawn
+L0277,INF200,2026S2,Another/Unknown,North,Secondary,Medium,Under 25,0,60,No,High Pass
+L0278,BUSAN101,2026S2,Female,North,Postgraduate,Medium,Under 25,0,45,No,High Pass
+L0279,BUS101,2026S2,Female,Online/Other,Secondary,High,25-34,0,60,No,Pass
+L0280,BUS101,2026S2,Male,South,Bachelor,Medium,25-34,0,90,No,Pass
+L0281,BUSAN101,2026S2,Female,Central,Secondary,Low,Under 25,0,90,No,Pass
+L0282,BUSAN101,2026S2,Male,North,Diploma,Medium,25-34,1,60,No,Pass
+L0283,BUS101,2026S2,Female,North,Secondary,High,25-34,1,90,Yes,Fail
+L0284,INF200,2026S2,Female,Central,Diploma,Medium,Under 25,0,60,No,Pass
+L0285,BUS101,2026S2,Male,Central,Diploma,High,Under 25,0,60,No,Pass
+L0286,INF200,2026S2,Male,South,Bachelor,Medium,Under 25,0,60,No,High Pass
+L0287,BUS101,2026S2,Male,South,Postgraduate,High,45+,0,120,No,Pass
+L0288,INF200,2026S2,Female,North,Bachelor,Medium,Under 25,0,60,No,Pass
+L0289,BUS101,2026S2,Female,Central,Secondary,High,Under 25,0,45,No,High Pass
+L0290,INF200,2026S2,Female,South,Postgraduate,Medium,45+,0,120,No,Pass
+L0291,INF200,2026S2,Female,Central,Secondary,Medium,Under 25,0,30,No,Withdrawn
+L0292,BUS101,2026S2,Male,North,Secondary,High,25-34,0,90,Unknown,Fail
+L0293,INF200,2026S2,Female,North,Secondary,Low,25-34,2,60,No,Pass
+L0294,BUS101,2026S2,Male,Online/Other,Diploma,Medium,25-34,0,60,Unknown,Fail
+L0295,INF200,2026S2,Male,North,Secondary,Low,25-34,0,30,No,Pass
+L0296,BUS101,2026S2,Male,North,Diploma,Medium,Under 25,0,90,No,Fail
+L0297,INF200,2026S2,Male,South,Secondary,Medium,Under 25,0,30,No,Pass
+L0298,INF200,2026S2,Female,Online/Other,Bachelor,Medium,Under 25,0,60,No,Withdrawn
+L0299,BUS101,2026S2,Male,South,Bachelor,Unknown,Under 25,0,60,Yes,Pass
+L0300,INF200,2026S2,Male,Central,Bachelor,Medium,Under 25,0,45,No,Pass
+L0301,INF200,2026S2,Male,South,Certificate,High,Under 25,3,60,No,Pass
+L0302,INF200,2026S2,Female,Online/Other,Postgraduate,Low,Under 25,1,45,Unknown,High Pass
+L0303,BUSAN101,2026S2,Male,South,Secondary,High,25-34,1,45,No,Fail
+L0304,BUSAN101,2026S2,Male,Online/Other,Secondary,Medium,Under 25,0,60,No,Pass
+L0305,INF200,2026S2,Female,Online/Other,Secondary,Medium,Under 25,0,90,No,Fail
+L0306,INF200,2026S2,Female,Central,Secondary,Medium,Under 25,0,60,No,Fail
+L0307,BUS101,2026S2,Another/Unknown,Online/Other,Secondary,Medium,Under 25,1,60,No,Pass
+L0308,BUS101,2026S2,Female,Online/Other,Secondary,Low,25-34,1,60,Yes,Fail
+L0309,BUSAN101,2026S2,Female,Online/Other,Bachelor,Medium,Under 25,0,60,No,Pass
+L0310,BUS101,2026S2,Male,South,Secondary,Low,Under 25,0,60,No,Withdrawn
+L0311,BUS101,2026S2,Male,North,Secondary,Medium,Under 25,3,60,No,Fail
+L0312,BUSAN101,2026S2,Male,North,Secondary,Low,25-34,0,45,Yes,High Pass
+L0313,BUSAN101,2026S2,Female,Central,Postgraduate,Low,35-44,2,45,No,Fail
+L0314,INF200,2026S2,Another/Unknown,Online/Other,Bachelor,High,25-34,0,60,Unknown,High Pass
+L0315,INF200,2026S2,Female,South,Secondary,Low,Under 25,0,90,No,Pass
+L0316,BUS101,2026S2,Female,North,Diploma,Medium,Under 25,2,45,No,High Pass
+L0317,INF200,2026S2,Male,Central,Bachelor,Low,Under 25,0,60,No,Pass
+L0318,BUS101,2026S2,Male,Online/Other,Postgraduate,High,Under 25,0,60,No,Pass
+L0319,BUS101,2026S2,Female,Central,Secondary,Medium,Under 25,0,90,No,Pass
+L0320,INF200,2026S2,Male,South,Postgraduate,Medium,Under 25,0,45,No,Pass
+L0321,INF200,2026S2,Female,South,Secondary,Low,25-34,0,60,No,Pass
+L0322,INF200,2026S2,Female,North,Secondary,Unknown,35-44,0,60,No,Pass
+L0323,BUS101,2026S2,Female,South,Secondary,Low,35-44,0,90,No,Pass
+L0324,INF200,2026S2,Male,Online/Other,Diploma,Medium,25-34,0,60,No,Pass
+L0325,INF200,2026S2,Female,Central,Secondary,Low,25-34,3,45,Yes,Pass
+L0326,BUS101,2026S2,Male,Online/Other,Diploma,Medium,Under 25,1,120,No,Pass
+L0327,BUSAN101,2026S2,Female,North,Postgraduate,High,Under 25,2,30,Yes,Withdrawn
+L0328,BUS101,2026S2,Female,South,Secondary,High,25-34,0,60,No,Fail
+L0329,BUS101,2026S2,Male,Central,Bachelor,Low,Under 25,0,60,No,Fail
+L0330,INF200,2026S2,Female,North,Secondary,Medium,45+,0,60,Unknown,Fail
+L0331,INF200,2026S2,Male,South,Secondary,Medium,Under 25,0,60,No,Pass
+L0332,INF200,2026S2,Male,Central,Secondary,High,Under 25,0,60,No,Fail
+L0333,INF200,2026S2,Female,Central,Secondary,Unknown,Under 25,0,60,Yes,Withdrawn
+L0334,INF200,2026S2,Female,South,Postgraduate,Low,Under 25,0,45,Yes,Withdrawn
+L0335,BUSAN101,2026S2,Male,North,Secondary,High,35-44,0,60,No,High Pass
+L0336,BUS101,2026S2,Male,Online/Other,Postgraduate,Low,35-44,0,45,No,Pass
+L0337,BUSAN101,2026S2,Another/Unknown,Online/Other,Bachelor,Low,35-44,0,45,No,Fail
+L0338,BUS101,2026S2,Female,Central,Bachelor,Unknown,Under 25,0,90,No,Fail
+L0339,BUS101,2026S2,Male,Central,Secondary,Low,25-34,0,30,Yes,Fail
+L0340,INF200,2026S2,Female,Central,Secondary,High,Under 25,2,120,No,Fail
+L0341,INF200,2026S2,Male,North,Bachelor,Medium,Under 25,0,45,No,Fail
+L0342,BUSAN101,2026S2,Female,Central,Certificate,Low,Under 25,2,120,No,Withdrawn
+L0343,INF200,2026S2,Female,South,Diploma,High,25-34,0,60,No,Fail
+L0344,INF200,2026S2,Female,Online/Other,Certificate,Medium,Under 25,0,60,No,Pass
+L0345,INF200,2026S2,Female,South,Secondary,Low,Under 25,1,90,No,Pass
+L0346,INF200,2026S2,Another/Unknown,North,Secondary,Medium,Under 25,0,90,No,Pass
+L0347,BUS101,2026S2,Male,South,Postgraduate,Low,Under 25,0,60,Yes,Fail
+L0348,BUSAN101,2026S2,Male,Central,Bachelor,Low,35-44,0,60,No,Pass
+L0349,INF200,2026S2,Male,South,Bachelor,High,Under 25,0,30,No,Pass
+L0350,BUS101,2026S2,Female,Central,Diploma,Low,35-44,0,45,No,High Pass
+L0351,BUS101,2026S2,Female,North,Postgraduate,Unknown,Under 25,0,120,No,Fail
+L0352,BUS101,2026S2,Female,North,Bachelor,High,Under 25,1,60,No,Fail
+L0353,INF200,2026S2,Female,South,Secondary,High,Under 25,0,60,No,Withdrawn
+L0354,BUSAN101,2026S2,Another/Unknown,Central,Bachelor,Medium,Under 25,0,45,Yes,Pass
+L0355,BUS101,2026S2,Female,Central,Postgraduate,Low,Under 25,0,60,No,Pass
+L0356,INF200,2026S2,Female,North,Bachelor,Low,Under 25,0,60,No,High Pass
+L0357,INF200,2026S2,Male,Central,Bachelor,Low,Under 25,0,120,Unknown,Pass
+L0358,BUS101,2026S2,Female,South,Bachelor,Low,Under 25,0,45,Yes,High Pass
+L0359,BUS101,2026S2,Female,North,Bachelor,Medium,25-34,1,60,No,Pass
+L0360,INF200,2026S2,Male,Central,Diploma,Medium,Under 25,0,30,No,Pass
+L0361,BUS101,2026S2,Male,South,Secondary,Medium,Under 25,0,90,No,Withdrawn
+L0362,BUS101,2026S2,Female,Online/Other,Secondary,High,Under 25,3,60,No,Fail
+L0363,BUS101,2026S2,Female,Central,Bachelor,High,Under 25,0,30,No,Pass
+L0364,INF200,2026S2,Male,North,Secondary,Medium,Under 25,0,90,No,High Pass
+L0365,INF200,2026S2,Female,Online/Other,Certificate,High,Under 25,0,60,Yes,Pass
+L0366,BUS101,2026S2,Male,North,Bachelor,Unknown,35-44,1,60,No,Pass
+L0367,BUSAN101,2026S2,Male,South,Secondary,High,Under 25,0,45,Yes,Fail
+L0368,BUS101,2026S2,Male,Online/Other,Diploma,High,25-34,0,60,No,High Pass
+L0369,BUSAN101,2026S2,Female,Central,Certificate,High,Under 25,1,60,No,Pass
+L0370,INF200,2026S2,Male,North,Secondary,Medium,Under 25,0,60,No,Withdrawn
+L0371,BUSAN101,2026S2,Female,Central,Secondary,Medium,Under 25,1,60,No,High Pass
+L0372,BUSAN101,2026S2,Female,Online/Other,Secondary,Medium,25-34,1,60,No,High Pass
+L0373,BUSAN101,2026S2,Female,North,Bachelor,Unknown,45+,0,30,No,Fail
+L0374,BUSAN101,2026S2,Male,Central,Bachelor,Medium,25-34,0,60,Yes,High Pass
+L0375,BUS101,2026S2,Female,Online/Other,Secondary,Low,Under 25,0,60,No,Pass
+L0376,BUS101,2026S2,Male,South,Certificate,Medium,Under 25,0,45,No,Pass
+L0377,INF200,2026S2,Male,Online/Other,Diploma,High,Under 25,0,30,No,Fail
+L0378,INF200,2026S2,Female,North,Bachelor,High,Under 25,0,120,No,Fail
+L0379,BUSAN101,2026S2,Female,Online/Other,Bachelor,High,Under 25,0,30,No,Withdrawn
+L0380,INF200,2026S2,Male,North,Secondary,Unknown,Under 25,0,45,No,Withdrawn
+L0381,INF200,2026S2,Male,North,Secondary,Low,Under 25,0,60,Yes,Withdrawn
+L0382,BUS101,2026S2,Female,Central,Bachelor,High,Under 25,0,60,No,Pass
+L0383,BUS101,2026S2,Male,North,Diploma,Medium,25-34,0,90,No,Fail
+L0384,BUS101,2026S2,Female,Online/Other,Secondary,Medium,Under 25,0,45,No,High Pass
+L0385,BUSAN101,2026S2,Male,Online/Other,Secondary,Medium,Under 25,1,60,No,Pass
+L0386,BUS101,2026S2,Female,Online/Other,Secondary,Low,25-34,0,90,No,Pass
+L0387,INF200,2026S2,Female,South,Secondary,Medium,Under 25,1,45,No,Pass
+L0388,BUSAN101,2026S2,Female,North,Secondary,Medium,Under 25,0,90,No,Pass
+L0389,BUS101,2026S2,Female,Online/Other,Bachelor,Medium,25-34,0,60,No,Withdrawn
+L0390,INF200,2026S2,Female,Online/Other,Secondary,Medium,Under 25,0,60,No,Withdrawn
+L0391,INF200,2026S2,Male,North,Diploma,Medium,Under 25,0,45,No,Pass
+L0392,INF200,2026S2,Male,North,Bachelor,Medium,Under 25,0,120,No,High Pass
+L0393,INF200,2026S2,Male,South,Certificate,Medium,Under 25,0,60,No,Pass
+L0394,INF200,2026S2,Female,South,Certificate,High,Under 25,0,60,No,Fail
+L0395,INF200,2026S2,Male,Online/Other,Bachelor,Low,Under 25,0,60,No,Fail
+L0396,BUSAN101,2026S2,Female,Online/Other,Secondary,High,35-44,1,60,Unknown,Withdrawn
+L0397,INF200,2026S2,Male,Central,Secondary,Medium,Under 25,2,30,Yes,Pass
+L0398,BUS101,2026S2,Female,North,Secondary,Unknown,Under 25,0,90,No,Fail
+L0399,BUSAN101,2026S2,Female,Central,Certificate,Low,35-44,3,60,No,Pass
+L0400,INF200,2026S2,Male,North,Secondary,Medium,Under 25,0,90,No,Pass
